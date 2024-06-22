@@ -1,1 +1,23 @@
 
+#logopng {
+  border-radius: 50%
+}
+
+#username, #instabtn, #discordbtn, #pics, #logodiv  {
+  text-align: center;
+}
+
+#smallbio, #mainpara {
+  font-size: 12px;
+  text-align: center;
+}
+
+#instabtn button, #discordbtn button {
+  font-size: 20px;
+  height: 40px;
+  width: 200px;
+}
+
+#pic {
+  border-radius: 10%
+}
